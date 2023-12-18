@@ -56,6 +56,6 @@ Following on from the initial problem analysis, UML designs can now be produced 
 
 #### UML Sequence Diagram
 
-A UML Sequence Diagram was also utilised in otder to design the system which can be viewed:
+A UML Sequence Diagram was also utilised in order to design the system which can be viewed:
 
 ![A UML Sequence Diagram](/docs/UML%20Sequence%20Diagram.png) 
