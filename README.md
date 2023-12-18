@@ -35,12 +35,13 @@ Based off of the requirements use cases can be developed in order to further und
 **Preconditions:** The User has begun executing the program.  
 **Main Flow:**
 1.	The App instantiates the Scene
-2.	The App instantiates the AssetManager
-3.	The App requests 5 JavaFish from AssetManager
-4.	The App requests 5 SeaHorse from AssetManager
-5.	The App requests 5 Urchin from AssetManager
-6.	The App requests 5 Piranha from AssetManager
-7.	The App adds all instantiated DisplayObjects to the Scene.  
+1.	The App instantiates the AssetManager
+1.	The App requests 5 JavaFish from AssetManager
+1.	The App requests 5 SeaHorse from AssetManager
+1.	The App requests 5 Urchin from AssetManager
+1.	The App requests 5 Piranha from AssetManager
+1.	The App adds all instantiated DisplayObjects to the Scene.  
+
 **Alternative Flows:** None  
 **Exceptional Flows:** None  
 **Post Conditions:** The App has now added all of the required Assets to the Scene.
