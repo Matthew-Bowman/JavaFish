@@ -29,21 +29,21 @@ Initially requirements were analysed to refine them to possess no ambiguities en
 
 Based off of the requirements use cases can be developed in order to further understand what is required for the application to function and meet the client's requirements. The following example represents this:
 
-Name: UC01
-Actor: App
-Context: The highest-level class which aims to set up the scene.
-Preconditions: The User has begun executing the program.
-Main Flow:
+**Name: UC01**  
+**Actor: App**  
+**Context:** The highest-level class which aims to set up the scene.  
+**Preconditions:** The User has begun executing the program.  
+**Main Flow:**
 1.	The App instantiates the Scene
 2.	The App instantiates the AssetManager
 3.	The App requests 5 JavaFish from AssetManager
 4.	The App requests 5 SeaHorse from AssetManager
 5.	The App requests 5 Urchin from AssetManager
 6.	The App requests 5 Piranha from AssetManager
-7.	The App adds all instantiated DisplayObjects to the Scene.
-Alternative Flows: None
-Exceptional Flows: None
-Post Conditions: The App has now added all of the required Assets to the Scene.
+7.	The App adds all instantiated DisplayObjects to the Scene.  
+**Alternative Flows:** None  
+**Exceptional Flows:** None  
+**Post Conditions:** The App has now added all of the required Assets to the Scene.
 
 ### OO Software Design
 
